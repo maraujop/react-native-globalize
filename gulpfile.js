@@ -74,6 +74,9 @@ const currencies = [
   'EUR',          // Euro
   'GBP',          // British Pound
   'USD',          // US Dollar
+  'RUB',          // Rusian Ruble
+  'CHF',          // Swiss Franc
+  'MXN',          // Mexican peso
 ];
 
 const files = ['ca-gregorian', 'currencies', 'dateFields', 'numbers', 'timeZoneNames'];
